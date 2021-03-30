@@ -1,11 +1,7 @@
-# node로 로그인 구현
+## README
 
-# 로그인 기능 구현하기
+https://www.notion.so/react-node-8d7c17e44cbd46ce99652b68b5f0ab52
 
-## mongoDB
+## github
 
-- 네이버 아이디로 로그인 / 비밀번호 늘 사용하던거 기본(특수문자없음)
-
-## postman
-
-## ssh
+https://github.com/leeeso93/react-signup
